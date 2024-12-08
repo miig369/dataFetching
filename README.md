@@ -1,21 +1,21 @@
-💻 Project
+# Project
 
 🚧 A simple project to fetch data using React 🚀
 
-🔨 Features
+##Features
 
     Fetch data in the best way
 
-✨ Technologies
+## Technologies
 
     Vite
     React
     Axios
 
-🏃‍♂️ Running the project
+##Running the project
 
-Clone the repository
+- Clone the repository
 
-Use yarn or npm install to install project dependencies. Then start the project.
+Use npm install to install project dependencies. Then start the project.
 
-yarn dev
+npm run dev
