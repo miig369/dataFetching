@@ -2,7 +2,7 @@
 
 🚧 A simple project to fetch data using React 🚀
 
-##Features
+## Features
 
     Fetch data in the best way
 
@@ -12,7 +12,7 @@
     React
     Axios
 
-##Running the project
+## Running the project
 
 - Clone the repository
 
